@@ -1,0 +1,7 @@
+{
+  "name": "excel-bot",
+  "type": "module",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
